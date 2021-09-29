@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NotesAPP</string>
+    <!-- Notes menu -->
+    <string name="add_note">Add note</string>
+    <string name="retry">Retry</string>
+
+    <!-- Add note menu -->
+    <string name="done">Done</string>
+
+    <!-- Note details menu -->
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="add_reminder">Add reminder</string>
+    <string name="remove_reminder">Remove reminder</string>
+
+    <!-- Messages -->
+    <string name="generic_error">Something went wrong, please try again!</string>
+    <string name="permission_denied">Permission denied</string>
+
+    <!-- Notes screen -->
+    <string name="number_of_notes">%d Notes</string>
+    <string name="search">Search</string>
+
+    <!-- Note details screen -->
+    <string name="invalid_date_message">Time for the reminder can\'t be in the past</string>
+    <string name="add_image">Add Image</string>
+    <string name="remove_image">Remove Image</string>
+</resources>
